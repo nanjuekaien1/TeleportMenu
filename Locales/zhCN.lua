@@ -174,7 +174,7 @@ L["Icon Texture Zoom Tooltip"] = "放大图标材质以消除可能存在的内�
 L["Item Teleports"] = "传送物品"
 L["Item Teleports Tooltip"] = "\124cFF34B7EB所有具有传送功能的物品\124r\n\n\124cFFFF0000阵营传送披风需要点击两次！\124r"
 L["Teleports:Items:Filters:Held_Items"] = "你拥有的物品"
-L["Teleports:Items:Filters:Items_To_Be_Obtained"] = "不可用的物品"
+L["Teleports:Items:Filters:Items_To_Be_Obtained"] = "物品信息"
 
 -- Settings
 L["ADDON_NAME"] = "TeleportMenu"
